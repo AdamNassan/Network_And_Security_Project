@@ -1,7 +1,7 @@
 # Network and Security Lab Project
 
 ## Overview
-This repository contains the implementation of a secure TCP-based guessing game for the ENCS5121 - Information Security and Computer Network Laboratory (Term 1242) at Circuit University. The project, developed by student ID 1202076, is completed in three phases:
+This repository contains the implementation of a secure TCP-based guessing game for the Information Security and Computer Network Laboratory. The project is completed in three phases:
 - **Phase 1**: A client-server guessing game using TCP sockets, with a menu-driven interface.
 - **Phase 2**: Added AES-256-CBC encryption with a hardcoded 256-bit key and a random 128-bit IV per game round.
 - **Phase 3**: Implemented mutual authentication using RSA (620-digit modulus) and Diffie-Hellman (2048-bit MODP group) for session key establishment, ensuring perfect forward secrecy (PFS) and protection against man-in-the-middle (MITM) attacks.
