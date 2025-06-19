@@ -151,5 +151,3 @@ To verify mutual authentication and key exchange, three test cases are implement
   - RFC3526 for Diffie-Hellman parameters
   - RosettaCode for modular exponentiation
   - StackOverflow for modular inverse algorithm
-
-For issues or questions, contact the student (ID: 1202076) or the ENCS5121 Team.
