@@ -146,7 +146,6 @@ To verify mutual authentication and key exchange, three test cases are implement
 - **Online Verification**: Ciphertext may differ in the last block if padding differs from the online tool (e.g., https://cryptii.com/pipes/aes-encryption).
 
 ## Acknowledgments
-- **ENCS3320 Resources**: Provided initial socket programming code (Google Drive link).
 - **References**:
   - RFC3526 for Diffie-Hellman parameters
   - RosettaCode for modular exponentiation
